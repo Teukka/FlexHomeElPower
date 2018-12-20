@@ -1,3 +1,3 @@
 # Jouko Control Device Software documents
 
-Installation guides of JouKo control device.
+This folder contains the installation guides of JouKo control device.
