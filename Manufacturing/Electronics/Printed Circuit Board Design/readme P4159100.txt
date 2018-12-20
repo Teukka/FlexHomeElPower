@@ -1,0 +1,16 @@
+Tiedosto P4159100.sch on tehty PADS Layout 9.5 ohjelmalla. Tämä on siis päätiedosto.
+
+
+Muut ovat PADS.in lähtötiedostoja:
+
+P4159100.asc on Ascii tiedosto jota ladontakone voi käyttää komponenttien sijaintien tunnistukseen
+
+P4159100.emp ja emn  ovat piirikotin 3D tiedostoja 
+
+	EMN- tiedosto sisältää piirilevyn ulkolinjan, osien, reikien ja jyrsintöjen sijaintitiedot sekä keep out alueet
+		
+	EMP- tiedosto sisältää osien ulkoasun ja korkeuden.
+
+
+
+Layer PDFs kansiossa on jokaisen piirilevykerroksen gerberi PDF- formaatissa.
